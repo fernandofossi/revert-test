@@ -1,5 +1,9 @@
 public class ClassePrincipal{
     
+    private static final int version = 2.0;
+    
+    private static final String author = "fossi";
+    
     private int atributo1;
     private int atributo2;
     
