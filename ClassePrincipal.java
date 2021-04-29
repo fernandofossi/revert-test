@@ -11,4 +11,8 @@ public class ClassePrincipal{
         atributo1 = arg1;
         atributo2 = arg2;
     }
+    
+    public void funcao2(){
+        return null;
+    }
 }
