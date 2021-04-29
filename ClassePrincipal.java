@@ -15,4 +15,8 @@ public class ClassePrincipal{
     public void funcao1(){
         return null;
     }
+  
+    public void funcao2(){
+        return null;
+    }
 }
