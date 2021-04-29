@@ -16,7 +16,7 @@ public class ClassePrincipal{
         return 1L;
     }
   
-    public void funcao2(){
-        return null;
+    public int funcao2(){
+        return 0;
     }
 }

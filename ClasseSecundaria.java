@@ -12,6 +12,10 @@ public class ClasseSecundaria{
         atributo2 = arg2;
     }
     
+    public String funcao1(){
+        return "";
+    }
+  
     public boolean funcao2(){
         return false;
     }
