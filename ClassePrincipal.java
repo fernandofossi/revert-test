@@ -12,8 +12,8 @@ public class ClassePrincipal{
         atributo2 = arg2;
     }
     
-    public void funcao1(){
-        return null;
+    public Long funcao1(){
+        return 1L;
     }
   
     public int funcao2(){

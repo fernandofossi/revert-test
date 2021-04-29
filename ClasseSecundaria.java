@@ -15,4 +15,8 @@ public class ClasseSecundaria{
     public String funcao1(){
         return "";
     }
+  
+    public boolean funcao2(){
+        return false;
+    }
 }
