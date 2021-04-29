@@ -1,6 +1,6 @@
 public class ClasseSecundaria{
     
-    private static final int version = 2.0;
+    private static final int version = 2.1;
     
     private static final String author = "lima";
     
@@ -10,5 +10,9 @@ public class ClasseSecundaria{
     public ClasseSecundaria(int arg1, int arg2){
         atributo1 = arg1;
         atributo2 = arg2;
+    }
+    
+    public boolean funcao2(){
+        return false;
     }
 }
