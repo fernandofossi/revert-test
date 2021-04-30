@@ -1,6 +1,6 @@
 public class ClassePrincipal{
     
-    private static final int version = 2.0;
+    private static final int version = 2.1;
     
     private static final String author = "fossi";
     
@@ -12,11 +12,11 @@ public class ClassePrincipal{
         atributo2 = arg2;
     }
     
-    public void funcao1(){
-        return null;
+    public Long funcao1(){
+        return 1L;
     }
   
-    public void funcao2(){
-        return null;
+    public int funcao2(){
+        return 0;
     }
 }
