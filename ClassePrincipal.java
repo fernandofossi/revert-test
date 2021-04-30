@@ -23,4 +23,8 @@ public class ClassePrincipal{
     private void funcao3(){
         return;
     }
+
+    public Long funcao4(){
+        return 2L;
+    }
 }
