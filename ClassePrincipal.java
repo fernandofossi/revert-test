@@ -7,6 +7,7 @@ public class ClassePrincipal{
     private int atributo1;
     private int atributo2;
     private int atributo3;
+    private int atributo4;
     
     public ClassePrincipal(int arg1, int arg2){
         atributo1 = arg1;
