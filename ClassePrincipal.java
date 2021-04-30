@@ -20,6 +20,10 @@ public class ClassePrincipal{
         return 0;
     }
     
+    private void funcao3(){
+        return;
+    }
+
     public Long funcao4(){
         return 2L;
     }

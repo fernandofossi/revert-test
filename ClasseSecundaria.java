@@ -19,6 +19,10 @@ public class ClasseSecundaria{
     public boolean funcao2(){
         return false;
     }
+  
+    private void funcao3(){
+        return;
+    }
     
     public int funcao4(){
         return 0;
