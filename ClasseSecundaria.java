@@ -1,6 +1,6 @@
 public class ClasseSecundaria{
     
-    private static final int version = 3.0;
+    private static final int version = 3.1;
     
     private static final String author = "lima";
     
