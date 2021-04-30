@@ -1,6 +1,6 @@
 public class ClassePrincipal{
     
-    private static final int version = 2.1;
+    private static final int version = 3.0;
     
     private static final String author = "fossi";
     
@@ -18,5 +18,13 @@ public class ClassePrincipal{
   
     public int funcao2(){
         return 0;
+    }
+    
+    private void funcao3(){
+        return;
+    }
+
+    public Long funcao4(){
+        return 2L;
     }
 }
