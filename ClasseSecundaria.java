@@ -1,6 +1,6 @@
 public class ClasseSecundaria{
     
-    private static final int version = 2.1;
+    private static final int version = 3.0;
     
     private static final String author = "lima";
     
@@ -18,5 +18,9 @@ public class ClasseSecundaria{
   
     public boolean funcao2(){
         return false;
+    }
+    
+    public int funcao4(){
+        return 0;
     }
 }
